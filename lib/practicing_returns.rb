@@ -1,6 +1,6 @@
+#using yield and capturing the return value of the #code block that we will call with such a method.
 
-
-
+require 'pry'
 
 def hello(array)
   i = 0
